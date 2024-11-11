@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/debjoyti-sarkar-85a9992a0/overlay/background-image/">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFarPLTeYek_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731319368431?e=1736985600&v=beta&t=iFYFVZgUOIZBogHhPiolalo8CXz4QbIgnvfuGkLAJ0U">
 
 
 
