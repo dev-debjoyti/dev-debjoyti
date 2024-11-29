@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFarPLTeYek_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731319368431?e=1736985600&v=beta&t=iFYFVZgUOIZBogHhPiolalo8CXz4QbIgnvfuGkLAJ0U">
+<img src="https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/467767646_2530467853830591_6051738366117861449_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE40aI6szhCxx6gMK9M04oz9DOkmMAcXUf0M6SYwBxdR9cysd5W_E47CXC7dh2nqPPBcy6uogXO4Hrf6GEbMLDY&_nc_ohc=LN_xHTKPjxIQ7kNvgFT5Wgd&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AVH4gdUfwp23bknpMkmn88k&oh=00_AYD1h97w1UBGd8ATNhPdPgg2IQkvQQDQa_4MreSF6UXB9w&oe=674FB0A0">
 
 
 
