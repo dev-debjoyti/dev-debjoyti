@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGlFwsP6w8yAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732261791686?e=1743638400&v=beta&t=_k8xWdVv4P3nwyHULTPo3rki6px08wNFfQKJrFaURqw">
+<img src"https://media.licdn.com/dms/image/v2/D5616AQHYkh-J4hh6cQ/profile-displaybackgroundimage-shrink_350_1400/B56Z4DRFfmIsAU-/0/1778171271379?e=1779926400&v=beta&t=27A9hdaFl84LgSn7LN2c0FGlkaz5TTc1fWZX0Jre-Ow">
 <h1 align="center">Welcome To My Profile</h1>
 <h3 align="center">Passionate Web Developer |Web Design | Web Solutions|</h3>
 
